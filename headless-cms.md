@@ -13,8 +13,8 @@ After constantly beeing pushed away from Dato CMS due to their ever changing pri
 
 
 # Prismic
-Origin: French
-URL: https://prismic.io/
+Origin: French  
+URL: https://prismic.io/  
 
 ## Pro:
 * 
@@ -24,9 +24,9 @@ URL: https://prismic.io/
 
 
 # Birkir/Prime
-Docs: https://docs.primecms.app/
-Git: https://github.com/birkir/prime
+Docs: https://docs.primecms.app/  
+Git: https://github.com/birkir/prime  
 
 
 # WPGraphQL
-URL: https://docs.wpgraphql.com/
+URL: https://docs.wpgraphql.com/  
